@@ -7,4 +7,4 @@ class Solution:
             res.append(nums[i])
             res.append(nums[n+i])
         return res
-Solution()
+
