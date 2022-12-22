@@ -7,4 +7,3 @@ class Solution:
         for i in range(1,len(nums)):
             empty_array[i] = empty_array[i-1] + nums[i]
         return empty_array
-Solution()
